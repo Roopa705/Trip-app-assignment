@@ -137,6 +137,9 @@ When successful, you'll see analytics output like:
   ]
 }
 ```
+The JSON output is also saved in the summary.json file.
+
+
 
 ## Troubleshooting
 
